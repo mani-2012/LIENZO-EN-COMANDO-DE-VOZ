@@ -1,0 +1,27 @@
+body
+{
+	background:rgb(238, 240, 121);
+}
+b{
+	background-color: rgb(248, 87, 62);
+	width: fit-content;
+	font-size: 40px;
+}
+button{
+	background-color: rgb(138, 212, 127);
+	color:rgb(81, 79, 79);
+	font-size: 25;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(231, 107, 107);
+}
+canvas
+{
+	background: lightsalmon;
+	border-radius: 20px;
+	border-color: rgb(248, 87, 62);
+    border-width: 25px;
+	border-style:dotted;
+}
